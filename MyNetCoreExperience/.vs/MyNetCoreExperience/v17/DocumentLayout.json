@@ -19,7 +19,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyNetCoreExperience",
+              "Title": "MyNetCoreExperience.fsproj",
               "DocumentMoniker": "C:\\Git\\NetCore\\MyNetCoreExperience\\MyNetCoreExperience\\MyNetCoreExperience.fsproj",
               "RelativeDocumentMoniker": "MyNetCoreExperience\\MyNetCoreExperience.fsproj",
               "ToolTip": "C:\\Git\\NetCore\\MyNetCoreExperience\\MyNetCoreExperience\\MyNetCoreExperience.fsproj",
