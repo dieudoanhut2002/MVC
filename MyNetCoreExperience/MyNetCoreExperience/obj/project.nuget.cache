@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vj1XZxm+3YuqG6v0fgAiWl3Ktv/GuFyljDFOyKwsUGQrCrIu/hoKpae05cfW44YvYLX56H5vtZZEXrAA4VlZAg==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\NetCore\\MyNetCoreExperience\\MyNetCoreExperience\\MyNetCoreExperience.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
