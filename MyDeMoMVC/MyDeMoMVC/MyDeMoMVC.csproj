@@ -7,7 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Menu\NewFolder1\" />
+    <Compile Remove="Views\Menu\NewFolder1\**" />
+    <Content Remove="Views\Menu\NewFolder1\**" />
+    <EmbeddedResource Remove="Views\Menu\NewFolder1\**" />
+    <None Remove="Views\Menu\NewFolder1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Menu\MenuTop\" />
+    <Folder Include="Views\Menu\MenuNavSideVerticall\" />
   </ItemGroup>
 
 </Project>

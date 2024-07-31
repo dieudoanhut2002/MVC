@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyDeMoMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eb97baf9c4645b2b658418250f17079cf2afc30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e3405252aeb60b0bb3501382badc592f0704819")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyDeMoMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyDeMoMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
