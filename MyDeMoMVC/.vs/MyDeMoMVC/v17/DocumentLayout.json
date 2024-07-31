@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Git\\NetCore\\MyDeMoMVC\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0CB817D6-E1BF-4282-BA18-CEC3409F1C19}|MyDeMoMVC\\MyDeMoMVC.csproj|c:\\git\\netcore\\mydemomvc\\mydemomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CB817D6-E1BF-4282-BA18-CEC3409F1C19}|MyDeMoMVC\\MyDeMoMVC.csproj|solutionrelative:mydemomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 162,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Git\\NetCore\\MyDeMoMVC\\MyDeMoMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MyDeMoMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Git\\NetCore\\MyDeMoMVC\\MyDeMoMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MyDeMoMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T04:06:20.87Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
